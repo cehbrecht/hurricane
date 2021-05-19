@@ -1,0 +1,9 @@
+name: hurricane
+channels:
+- conda-forge
+- defaults
+dependencies:
+- pip
+- locust
+- pyquery
+- jinja2
